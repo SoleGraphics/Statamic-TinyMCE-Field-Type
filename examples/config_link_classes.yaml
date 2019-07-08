@@ -1,0 +1,7 @@
+mce_config:
+  # Add custom link class name options to link dialog
+  link_class_list:
+    - title: Button
+      value: 'btn'
+    - title: Button Alt
+      value: 'btn--alt'

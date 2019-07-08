@@ -1,0 +1,22 @@
+mce_config:
+  # Don't forget to re-add formatselect to toolbar if false
+  style_formats_merge: true
+  style_formats_autohide: true
+  # Example of 'grouped custom styles'
+  style_formats:
+    - title: Typography
+      items:
+      - title: Large Text
+        selector: p
+        classes: text-xl
+      - title: XL Text
+        selector: p
+        classes: text-2xl
+    - title: Buttons
+      items:
+      - title: Button (Default)
+        selector: a
+        classes: btn--default
+      - title: Button (Primary)
+        selector: a
+        classes: btn--primary

@@ -1,0 +1,29 @@
+mce_config:
+  branding: false
+  height: 500px
+  menubar: false
+  content_css:
+    - /_resources/addons/TinyMceWysiwyg/css/mce_editor.css
+  plugins:
+    - code
+    - link
+    - lists
+    - fullscreen
+    - table
+  toolbar: |
+    formatselect |
+    bold italic underline |
+    alignleft aligncenter alignright alignjustify |
+    numlist bullist |
+    removeformat link table |
+    code fullscreen
+  rel_list:
+    - title: No Follow
+      value: nofollow
+    - title: No Opener
+      value: noopener
+    - title: No Referer
+      value: noreferrer
+  link_class_list: []
+  style_formats_merge: false
+  style_formats_autohide: true

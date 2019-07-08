@@ -1,0 +1,7 @@
+/* Statamic has opacity 0 on <selects> */
+.tox-selectfield select {
+    opacity: 1;
+}
+div.tox .tox-form__group {
+    margin-bottom: 10px;
+}
