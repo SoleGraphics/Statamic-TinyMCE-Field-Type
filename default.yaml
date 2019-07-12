@@ -27,3 +27,4 @@ mce_config:
   link_class_list: []
   style_formats_merge: false
   style_formats_autohide: true
+  convert_urls: false
