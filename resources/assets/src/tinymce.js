@@ -41,7 +41,6 @@ Vue.component('tiny_mce_wysiwyg-fieldtype', {
 
             tinymce.init({
                 target: this.$els.tinymce,
-                convert_urls: false,
                 ...mceConfig,
                 init_instance_callback: (editor) => {
                     this.editor = editor;
