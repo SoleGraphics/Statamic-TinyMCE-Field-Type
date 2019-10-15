@@ -1,3 +1,4 @@
 .DS_Store
-node_modules
-mix-manifest.json
+
+TinyMceWysiwyg/node_modules
+TinyMceWysiwyg/mix-manifest.json

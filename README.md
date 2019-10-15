@@ -4,7 +4,7 @@ Add [TinyMCE v5](https://www.tiny.cloud/features) wysiwyg as a Statamic field ty
 
 ## Installation
 
-1. Unzip and move this folder to `site/addons/`
+1. Unzip and move the folder `TinyMceWysiwyg` to your `site/addons/`
 2. That's it. You're done.
 
 ## Configuration

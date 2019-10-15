@@ -1,6 +1,6 @@
 {
   "name": "statamic-tinymce-fieldtype",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "resources/assets/js/fieldtype.js",
   "license": "MIT",
   "scripts": {
@@ -12,7 +12,7 @@
     "tinymce": "^5.0.11"
   },
   "devDependencies": {
-    "laravel-mix": "^4.1.2",
+    "laravel-mix": "^5.0.0",
     "vue-template-compiler": "^2.6.10"
   }
 }
